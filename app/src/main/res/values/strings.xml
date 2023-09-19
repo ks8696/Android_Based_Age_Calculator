@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Your True Age Here</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="age">Age</string>
+    <string name="in_hours_min_sec">IN HOURS,MIN,SEC</string>
+    <string name="select_date">Select Date</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="selected_date">SELECTED DATE</string>
+    <string name="_0">0</string>
+    <string name="age_in_hours">AGE IN HOURS</string>
+    <string name="age_in_minutes">AGE IN MINUTES</string>
+    <string name="age_in_seconds">AGE IN SECONDS</string>
+</resources>
